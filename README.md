@@ -1,1 +1,0 @@
-# A-university-managemnt-system
