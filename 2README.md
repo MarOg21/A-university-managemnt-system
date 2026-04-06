@@ -22,7 +22,7 @@ the system depicts a well OOP, file handling and user interactions.
 ## key features
    - add, manage and view students informations
    - add and manage courses
-   - enrol students in courses
+   - enroll students in courses
    - save and load students using csv files
    - simp,e user input interaction
   
@@ -30,5 +30,5 @@ the system depicts a well OOP, file handling and user interactions.
    - students.py
    - course.py
    - department.py
-   - nerollment.py
+   - enrollment.py
    - interface.py
